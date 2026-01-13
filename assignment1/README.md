@@ -28,6 +28,12 @@ Once you have your notebook open you should see the following five sections:
 
 In the assignment you will implemented each of these fundamental ML models. Below we give descriptions/instructions to help with the implementation grouped intro three subsections since there is some overlap in the ideas.
 
+**_NOTE: You may use Python packages for helping with simple computations, but you cannot use them to implement the full model._**
+
+For example, you may use `numpy.matmul`, `np.min`, `np.max`, and similar, but you CANNOT use something like `sklearn.linear_model.LinearRegression` to implement the model. The purpose of this assignment is to get you familiar with the fundamental ML models, how they work and how they are implemented.
+
+**_WARNING: Any use of packages that implement the model like `sklearn.linear_model.LinearRegression` will result in 0 points for each respective section they are used in._**
+
 ## 1. Implement Linear and Logistic Regression
 
 ## 2. Implement Decision Tree and Random Forest
