@@ -1,5 +1,9 @@
+**/answer/**
+**/answers/**
 **/answer.py
 **/answer.ipynb
+**/answers.py
+**/answers.ipynb
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,qt,qtcreator
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,python,qt,qtcreator
