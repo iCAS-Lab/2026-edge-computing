@@ -70,7 +70,7 @@ This should be as simple as pressing the "Run all" or similar play button.
 
 ## 2. Deliverables
 
-There are several questions in throughout the `main.ipynb`. Answer them to the best of your knowledge and submit them to blackboard.
+There are 10 questions throughout the `main.ipynb`. Answer them to the best of your knowledge and submit them to blackboard.
 
 ## Note on Training Issues During Live Demo in Class
 
