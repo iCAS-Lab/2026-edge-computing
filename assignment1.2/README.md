@@ -18,6 +18,10 @@ For this assignment, you will need to perform three steps:
 2. Develop and train a VGG-like network
 3. Measure the model's average inference latency for at least N=1000 inputs
 
+Feel free to use the `main.ipynb` code from Assignment 1.1 to help with this assignment. As always please acklowedge any resources you use for completing the assignment.
+
 ## 2. Deliverables
 
-At the very least, you should show that you were able to perform the three steps described above by the end of the course's allocated time. Show that your code is functional (i.e. the model is using CIFAR-10 to train/validate on, the loss is consistently decreasing and accuracy consistently increasing, and an average latency for the model was obtained for at least N=1000 samples)
+At the very least, you should show that you were able to perform the three steps described above by the end of the class time. By the end of class show the TAs that your code is functional (i.e. the model is using CIFAR-10 to train/validate on, the loss is consistently decreasing and accuracy consistently increasing, and an average latency for the model was obtained for at least N=1000 samples). They will check your name off if these tasks were sufficienlty completed.
+
+Additionally, there may be a deliverable to turn in via BlackBoard so be sure to keep your code after the class.
