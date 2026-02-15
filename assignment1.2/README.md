@@ -146,7 +146,7 @@ id,label,latency
 4,4,5.3473
 5,7,5.9069
 ...
-1499,8,4.82804282034872
+1499,8,4.8280
 ```
 
 (NOTE: These latency values are not real. Your latency values should be somewhat uniform.)
