@@ -178,5 +178,5 @@ There are two deliverables for this assignment to be submitted on the course's B
 We have provided some code to help you:
 
 - [get_dataset.py](https://github.com/iCAS-Lab/2026-edge-computing/blob/main/assignment1.2/get_dataset.py)
-- [score.py](https://github.com/iCAS-Lab/2026-edge-computing/blob/main/assignment1.2/score.py)
+- [accuracyoverlatency.ipynb](https://github.com/iCAS-Lab/2026-edge-computing/blob/main/assignment1.2/accuracyoverlatency.ipynb)
 - [to_image.py](https://github.com/iCAS-Lab/2026-edge-computing/blob/main/assignment1.2/to_image.py)
