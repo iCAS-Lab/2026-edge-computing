@@ -18,11 +18,7 @@ To do this assignment, you will need to:
 
 Create your [Kaggle](https://www.kaggle.com/) account using an email and username of your choice. This is completely free. Kaggle may ask you to verify your email address and other information to fully utilize the accelerators available on their platform.
 
-### 0.2 Submit your Kaggle account to the class form
-
-Since students can create their Kaggle account with any username they wish to use, we ask that you please submit your name via a form available on Blackboard for this assignment. Please fill out this form prior to your first submission to the competition.
-
-### 0.3 Be familiar with how to use Kaggle
+### 0.2 Be familiar with how to use Kaggle
 
 #### Installing Packages
 
