@@ -123,14 +123,15 @@ for sample in inputs:
     output = model(input)
     end_time = time()
     total_inference_time += end_time - start_time
-average_inference_time = total_inference_time / len(inputs)
+# Multiple by 1000 to convert from seconds to milliseconds
+average_inference_time = 1000*total_inference_time / len(inputs)
 ```
 
 ## 2. Submitting to the Competition
 
 Run your model on the test dataset found in the `test.csv` file and store the model's predicted labels and latency for each input in a CSV file with the column name `id,label,latency`.
 
-To create a submission to the competition you will need to submit a CSV file with three columns representing the id of the test sample (0-1499), the label prediction from your model (0-9), and that sample's latency in milliseconds (float).
+To create a submission to the competition you will need to submit a CSV file with three columns representing the id of the test sample (0-1499), the label prediction from your model (0-9), and that sample's latency in **_MILLISECONDS_** (float).
 
 The first line of your CSV file should exactly match: `id,label,latency`
 
@@ -138,14 +139,14 @@ Your data should look like the following:
 
 ```csv
 id,label,latency
-0,9,0.07060495298968952
-1,7,0.02543792827358149
-2,3,0.16619398940928232
-3,1,0.10745737337762629
-4,4,0.34734539161027423
-5,7,0.90696813299638572
+0,9,10.0706
+1,7,5.0252
+2,3,4.1663
+3,1,5.1074
+4,4,5.3473
+5,7,5.9069
 ...
-1499,8,0.82804282034872
+1499,8,4.82804282034872
 ```
 
 (NOTE: These latency values are not real. Your latency values should be somewhat uniform.)
