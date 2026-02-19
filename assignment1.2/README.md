@@ -1,3 +1,5 @@
+**_NOTE: The accuracy of your model MUST be >=80.0% on the CIFAR-10 to recieve credit!_**
+
 # Assignment 1.2: CNNs - Accuracy vs. Latency
 
 Assignment Author: Peyton Chandarana
