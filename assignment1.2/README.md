@@ -1,4 +1,6 @@
-**_NOTE: The accuracy of your model MUST be >=80.0% on the CIFAR-10 to recieve credit!_**
+## :warning: **_NOTE: All latencies should be in MILLISECONDS. Submissions in seconds will be considered invalid!_**  
+## :warning: **_NOTE: Latencies should be reported for the Kaggle GPUs only!_**  
+## :warning: **_NOTE: The accuracy of your model MUST be >=80.0% on the CIFAR-10 to recieve credit!_**  
 
 # Assignment 1.2: CNNs - Accuracy vs. Latency
 
