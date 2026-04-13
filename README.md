@@ -14,3 +14,4 @@ Authors:
 
 - [Assignment 1.1](./assignment1.1/)
 - [Assignment 1.2](./assignment1.2/)
+- [Assignment 2](./assignment2/)
